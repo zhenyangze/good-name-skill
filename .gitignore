@@ -1,0 +1,17 @@
+# WorkBuddy 工作目录（非项目内容）
+.workbuddy/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.log
