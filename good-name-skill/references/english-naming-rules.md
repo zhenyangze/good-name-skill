@@ -175,7 +175,7 @@ Alex, Jordan, Taylor, Morgan, Casey, Riley, Avery, Quinn, Cameron, Hayden, Rowan
 ### 音节搭配原则
 
 1. **短音节名（1-2音节）** — 简洁有力，易记易叫：Max, Leo, Ava, Zoe, Jack, Finn
-2. **中等音节名（3音节）** — 韵律优美，经典耐听：Olivia, Benjamin, Victoria, Alexander
+2. **中等音节名（3音节）** — 韵律优美，经典耐听：Benjamin, Nicholas, Sophia, Eleanor
 3. **长音节名（4+音节）** — 优雅华丽，但日常使用略长：Alexander, Anastasia, Evangeline
 
 ### 发音顺口标准
