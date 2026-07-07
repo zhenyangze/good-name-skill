@@ -6,7 +6,7 @@
 
 ## 简介
 
-**Good Name Skill** 是一个 [WorkBuddy](https://www.codebuddy.cn/docs/workbuddy/Overview) 技能包，将专业命名知识体系封装为可复用的 AI 技能。它不是简单的名字生成器，而是内置了五行调和、音韵平仄、辈分适配、文化词源、商标规避等专业命名逻辑的智能系统，每次生成至少 5 个候选名称并附带释义，支持多轮迭代优化。
+**Good Name Skill** 将专业命名知识体系封装为可复用的 AI 技能。它不是简单的名字生成器，而是内置了五行调和、音韵平仄、辈分适配、文化词源、商标规避等专业命名逻辑的智能系统，每次生成至少 5 个候选名称并附带释义，支持多轮迭代优化。
 
 ### 核心亮点
 
@@ -191,8 +191,3 @@ cp -r good-name-skill .workbuddy/skills/
 本项目仅供学习和个人使用。
 
 ---
-
-## 相关链接
-
-- [WorkBuddy 官方文档](https://www.codebuddy.cn/docs/workbuddy/Overview)
-- [Skill 开发指南](https://www.codebuddy.cn/docs/workbuddy/Overview)
